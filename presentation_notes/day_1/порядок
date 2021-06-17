@@ -1,0 +1,50 @@
+main.go hello world
+package slide
+
+variables
+constants
+
+naming conventions slide
+keyworkds slide
+
+iota
+arrays
+slices
+maps
+ifelse
+
+strings
+
+scopes
+functions.functions
+functions.closures
+functions.defer
+functions
+errors
+
+structions.main
+
+EXERCISE
+scanner := bufio.NewScanner(os.Stdin)
+scanner.Scan()
+and strings.Split and json.Marshal so that out is in json
+I will split you into groups.
+you will be in pair with a random person.
+You can be able to do pair programming.
+Or you can program both at the same time.
+I will be joining each room from time to time
+
+https://github.com/Metalscreame/training-excercises/tree/main/day_1
+
+
+
+
+if there is time implement factory method
+https://refactoring.guru/ru/design-patterns/template-method
+https://refactoring.guru/ru/design-patterns/template-method/go/example#example-0
+pointers
+
+
+
+Homework
+https://github.com/Metalscreame/training-excercises/tree/main/day_1/homework

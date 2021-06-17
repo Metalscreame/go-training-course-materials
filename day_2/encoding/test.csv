@@ -1,0 +1,5 @@
+Bitbucket project name,Bitbucket project key,Bitbucket repo name,Bitbucket repo slug,Bitbucket repo link,Contact Slack Channel,To migrate or not,Proposed GitHub name,Migration status
+growth,GROWTH,homepay-mfe,homepay-mfe,https://bitbucket.use.dom.carezen.net/projects/GROWTH/repos/homepay-mfe/browse,,,growth-homepay-mfe,migrated
+growth,GROWTH,ratecard-mfe,ratecard-mfe,https://bitbucket.use.dom.carezen.net/projects/GROWTH/repos/ratecard-mfe/browse,,,growth-ratecard-mfe,migrated
+DNA,DNA,timesheets,timesheets,https://bitbucket.use.dom.carezen.net/projects/DNA/repos/timesheets/browse,,,dna-timesheets,migrated
+International,INTL,react-upgrade,react-upgrade,https://bitbucket.use.dom.carezen.net/projects/INTL/repos/react-upgrade/browse,,,intl-react-upgrade,planning
