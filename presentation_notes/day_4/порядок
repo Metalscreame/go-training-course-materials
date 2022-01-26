@@ -1,2 +1,77 @@
+They are only a few kb in stack
+size and the stack can grow and shrink
+according to the needs of the application
+whereas in the
+case of threads the stack size has to be
+specified and is fixed.
+
+There might be only one thread in
+a program with thousands of Goroutines.
+If any Goroutine in that thread
+blocks say waiting for user input,
+then another OS thread is created and the
+remaining
+Goroutines are moved to
+the new OS thread.
+All these are taken care of by the
+runtime and we as programmers
+are abstracted from these
+intricate details and are given
+a clean API to work with
+concurrency.
+
+Channels by design prevent race conditions
+from happening
+
+Channels can be thought of as
+a pipe using which Goroutines communicate.
+We will discuss channels in detail
+in the next tutorial.
+
+goroutines
+goroutines.pass
+channels.main
+channels.ping-pong
+channels.deadlock
+channels read from FOR
+excercise
+https://github.com/Metalscreame/training-excercises/tree/main/day_4/1
+
+select 1
+nil-chan
+select 2
+time.ticker
+https://github.com/Metalscreame/training-excercises/tree/main/day_4/2
+
+sync main
+sync.mutex
+sync.wait group
+
+// we were here
+sync.map
+sync.once
+
+https://github.com/Metalscreame/training-excercises/tree/main/day_4/3
+
+context.value
+context.timeout
+context.cancel
+
 concurr:
 https://github.com/Apress/go-recipes/tree/master/go-recipes-master/ch04
+
+fan-in-fanout1
+fan-in-fanout2
+patterns.semaphore
+patterns.worker
+
+managing dependencies
+testing
+time
+
+
+https://talks.golang.org/2013/advconc.slide#7
+excercise or hw?
+https://github.com/Apress/go-recipes/blob/master/go-recipes-master/ch04/pipeline/main.go
+
+

@@ -44,7 +44,6 @@ func main() {
 	p.SayHello()
 	p.Walk()
 
-	fmt.Println(p == Greter)
 
 	bond := JamesBond{
 		Person: Person{

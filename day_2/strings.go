@@ -7,11 +7,13 @@ import (
 	"unicode/utf8"
 )
 /*
-In Go, a string is in effect a read-only slice of bytes.
+In Go, a string is a read-only slice of bytes.
 And also, Go source code is UTF-8,
 so the source code for the string literal is UTF-8 text.
-I will send a link to the good article related to unicode strings in go
-All you need to know about strings to be ok i will explain now
+I will send a link to the good article related to
+unicode strings in go after this meeting
+All you need to know about strings to be ok i will
+explain now
  */
 
 func main() {

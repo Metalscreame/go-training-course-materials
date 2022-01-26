@@ -1,0 +1,14 @@
+time.go
+template file
+show code from migration tool
+
+pprof run server
+show handler, mem prof
+// go tool pprof -seconds 30 http://localhost:8080/debug/pprof/heap
+// top top5 -cum (cumulative flag)
+// go to http://localhost:8080/debug/pprof/
+// download heap, do go tool pprof heap
+// show https://blog.golang.org/pprof
+mention graphwiz
+show this
+https://slcjordan.github.io/posts/pprof/

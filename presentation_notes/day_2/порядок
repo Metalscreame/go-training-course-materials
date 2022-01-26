@@ -10,28 +10,15 @@ structions.interface
 structions.comparing
 dependency injection
 accept interfaces, return structs
-Interfaces allow us to create the function that only depends upon what we need.
+Interfaces allow us to create the
+function that only depends upon what we need.
 go has no way to abstract out struct members values.
 So, if your function needs to access struct members
-(and not just functions on the struct), then you’re forced to accept the struct directly.
+(and not just functions on the struct),
+then you’re forced to accept the struct directly.
 
 Comparison
 https://golangbyexample.com/interface-comparison-golang/
-
-errors
-panic
-pointer
-interfaces
-type assertion
-json.unmarshall
-json.custom
-json.partial
-json.raw
-json.tag
-
-//sort
-excercise json + sort
-https://github.com/Metalscreame/training-excercises/tree/main/day_2
 
 https://golang.org/pkg/encoding/
 encoding.csv.go

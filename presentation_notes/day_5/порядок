@@ -1,0 +1,30 @@
+sync.map
+sync.once
+https://github.com/Metalscreame/training-excercises/tree/main/day_4/3
+
+context.value
+context.timeout
+context.cancel
+
+concurr:
+https://github.com/Apress/go-recipes/tree/master/go-recipes-master/ch04
+
+fan-in-fanout1
+fan-in-fanout2
+patterns.semaphore
+patterns.worker
+
+
+http requests
+excercise
+https://github.com/Metalscreame/training-excercises/tree/main/day_5
+
+managing dependencies
+testing
+time
+
+
+excercise or hw?
+https://github.com/Apress/go-recipes/blob/master/go-recipes-master/ch04/pipeline/main.go
+
+

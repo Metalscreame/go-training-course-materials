@@ -1,3 +1,26 @@
+pointer
+errors
+defer
+panic
+interfaces
+type assertion
+json.unmarshall
+json.custom
+json.partial
+json.raw
+json.tag
+
+//sort
+excercise json + sort
+https://github.com/Metalscreame/training-excercises/tree/main/day_2
+
 dep mamagement using go get go mod
+testing
+testing with testify
+testing tools output
+
+testing service
+testing mocking with custom & gomock
+
 
 time

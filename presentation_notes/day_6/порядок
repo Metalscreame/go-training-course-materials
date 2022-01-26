@@ -1,0 +1,24 @@
+http client test, mock
+
+show how to work with Postgre using db.SQL
+SQL_DSN=postgres://postgres:secret@localhost:5432/test?sslmode=disable
+
+server implement
+
+0. project structure. internal package
+1. import mux
+2. implement all basic routes
+3. Start implementing GetBooks
+4. show how to write response
+5. what's the deafult contenty type and status code
+
+
+go get -u go.uber.org/zap
+github.com/google/uuid v1.2.0 // indirect
+github.com/gorilla/mux v1.8.0 // indirect
+
+implement postgre Repository
+replace it with inmemory repo
+add get All, Delete methods, update
+and write tests
+Mock repository interface with custom mocks
